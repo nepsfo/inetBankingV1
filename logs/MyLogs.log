@@ -1,0 +1,401 @@
+[INFO ] 2021-09-10 22:49:33.328 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-10 22:49:33.331 [main] Log4jDemo - Error message
+[WARN ] 2021-09-10 22:49:33.331 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-10 22:49:33.331 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-11 11:12:46.566 [main] BaseClass - Entered user name
+[INFO ] 2021-09-11 11:12:46.655 [main] BaseClass - Entered password
+[INFO ] 2021-09-11 20:24:11.540 [main] BaseClass - Entered user name
+[INFO ] 2021-09-11 20:24:11.696 [main] BaseClass - Entered password
+[INFO ] 2021-09-11 20:46:16.054 [main] BaseClass - Entered user name
+[INFO ] 2021-09-11 20:46:16.131 [main] BaseClass - Entered password
+[INFO ] 2021-09-12 08:20:24.856 [main] BaseClass - Entered user name
+[INFO ] 2021-09-12 08:20:24.917 [main] BaseClass - Entered password
+[INFO ] 2021-09-12 08:25:29.989 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:25:29.992 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:25:29.992 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:25:29.992 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:25:35.687 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:25:35.689 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:25:35.690 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:25:35.690 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:27:17.884 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:27:17.887 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:27:17.887 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:27:17.887 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:27:52.828 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:27:52.831 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:27:52.831 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:27:52.831 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:28:52.274 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:28:52.277 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:28:52.277 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:28:52.277 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:29:35.688 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:29:35.691 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:29:35.691 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:29:35.692 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:37:18.299 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:37:18.302 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:37:18.302 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:37:18.302 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:37:49.665 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:37:49.670 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:37:49.670 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:37:49.671 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:38:46.654 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:38:46.657 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:38:46.658 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:38:46.658 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:39:04.545 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:39:04.548 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:39:04.549 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:39:04.549 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:39:20.921 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:39:20.924 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:39:20.924 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:39:20.925 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:50:30.971 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:50:30.975 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:50:30.975 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:50:30.975 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 08:57:27.268 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 08:57:27.274 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 08:57:27.275 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 08:57:27.275 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:04:28.585 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:04:28.588 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:04:28.588 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:04:28.588 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:08:30.820 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:08:30.824 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:08:30.824 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:08:30.824 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:09:19.019 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:09:19.022 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:09:19.022 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:09:19.022 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:12:09.570 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:12:09.573 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:12:09.573 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:12:09.573 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:12:56.891 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:12:56.893 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:12:56.893 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:12:56.894 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:13:24.913 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:13:24.916 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:13:24.916 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:13:24.916 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:14:26.700 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:14:26.703 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:14:26.703 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:14:26.703 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:15:09.389 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 09:15:09.392 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 09:15:09.392 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 09:15:09.392 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 09:15:59.634 [main] BaseClass - Entered user name
+[INFO ] 2021-09-12 09:15:59.698 [main] BaseClass - Entered password
+[INFO ] 2021-09-12 09:21:17.572 [main] BaseClass - Entered user name
+[INFO ] 2021-09-12 09:21:18.073 [main] BaseClass - Entered password
+[INFO ] 2021-09-12 09:45:34.178 [main] BaseClass - Entered user name
+[INFO ] 2021-09-12 09:45:34.680 [main] BaseClass - Entered password
+[INFO ] 2021-09-12 19:55:23.270 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 19:55:23.273 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 19:55:23.274 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 19:55:23.274 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 19:55:51.869 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 19:55:51.872 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 19:55:51.872 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 19:55:51.872 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 19:56:49.405 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 19:56:49.408 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 19:56:49.408 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 19:56:49.409 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 20:01:31.642 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 20:01:31.644 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 20:01:31.645 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 20:01:31.645 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 20:10:21.210 [main] Log4jDemo - This is info message
+[ERROR] 2021-09-12 20:10:21.216 [main] Log4jDemo - Error message
+[WARN ] 2021-09-12 20:10:21.217 [main] Log4jDemo - Warning message
+[FATAL] 2021-09-12 20:10:21.217 [main] Log4jDemo - Fatal Message
+[INFO ] 2021-09-12 20:14:10.774 [main] BaseClass - Entered user name
+[INFO ] 2021-09-12 20:14:10.861 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 09:52:46.106 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 09:52:46.191 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 09:56:05.269 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 09:56:05.350 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 10:13:44.167 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 10:13:44.243 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 10:23:37.277 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 10:23:37.353 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 10:24:45.377 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 10:24:45.457 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 10:42:11.468 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 10:42:11.544 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 10:43:18.987 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 10:43:19.063 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 10:45:30.503 [main] BaseClass - Entered user name
+[INFO ] 2021-09-13 10:45:30.581 [main] BaseClass - Entered password
+[INFO ] 2021-09-13 13:12:29.544 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:12:29.607 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:12:30.093 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:12:30.101 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:12:30.738 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:12:30.797 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:12:30.993 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:12:31.400 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:12:31.455 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:12:31.635 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:12:32.030 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:12:32.085 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:12:32.303 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:12:32.308 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:15:37.983 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:15:38.044 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:15:38.516 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:15:38.524 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:15:39.206 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:15:39.267 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:15:39.457 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:15:39.844 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:15:39.900 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:15:40.091 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:15:40.393 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:15:40.450 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:15:40.652 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:15:40.655 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:17:30.658 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:17:30.729 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:17:31.204 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:17:31.216 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:17:31.898 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:17:31.953 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:17:32.141 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:17:32.489 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:17:32.545 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:17:32.732 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:17:33.119 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:17:33.174 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:17:33.402 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:17:33.408 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:20:51.712 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:20:51.773 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:20:52.308 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:20:52.318 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:20:52.968 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:20:53.025 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:20:53.199 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:20:53.487 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:20:53.544 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:20:53.727 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:20:54.011 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:20:54.068 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:20:54.300 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:20:54.304 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:26:07.592 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:26:07.655 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:26:08.160 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:26:08.169 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:26:08.872 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:26:08.930 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:26:09.120 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:26:09.509 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:26:09.564 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:26:09.748 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:26:10.107 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:26:10.165 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:26:10.394 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:26:10.397 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:28:21.599 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:28:21.659 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:28:22.176 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:28:22.185 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:28:22.894 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:28:22.952 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:28:23.156 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:28:23.518 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:28:23.574 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:28:23.873 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:28:24.293 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:28:24.348 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:28:24.577 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:28:24.583 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:30:00.430 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:30:00.490 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:30:00.979 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:30:00.989 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:30:05.047 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:30:05.107 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:30:05.431 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:30:09.010 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:30:09.071 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:30:09.261 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:30:12.799 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:30:12.855 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:30:13.118 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:30:13.121 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:33:01.451 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:33:01.516 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:33:01.944 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:33:01.952 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:33:05.520 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:33:05.580 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:33:05.853 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:33:09.441 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:33:09.495 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:33:09.680 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:33:13.157 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:33:13.213 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:33:13.456 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:33:13.459 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:33:17.489 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:33:17.541 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:33:17.801 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:35:56.957 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:35:57.027 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:35:57.515 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:35:59.538 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:36:03.353 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:36:03.412 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:36:03.656 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:36:09.326 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:36:09.383 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:36:09.741 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:36:15.310 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:36:15.365 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:36:15.620 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:36:17.641 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:36:21.352 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:36:21.407 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:36:21.688 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:39:44.401 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:39:44.464 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:39:44.911 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:39:46.929 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:39:50.614 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:39:50.673 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:39:50.955 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:39:56.516 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:39:56.572 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:39:56.772 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:40:02.643 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:40:02.697 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:40:02.944 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:40:04.959 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:40:08.561 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:40:08.615 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:40:08.862 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:43:10.684 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:43:10.749 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:43:11.161 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:43:13.176 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:43:19.056 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:43:19.112 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:43:19.415 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:43:24.935 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:43:24.990 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:43:25.180 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:43:30.744 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:43:30.799 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:43:31.067 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:43:33.075 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:43:38.691 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:43:38.744 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:43:39.018 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:51:14.062 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:51:14.132 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:51:14.559 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:51:16.582 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:51:22.296 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:51:22.363 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:51:22.664 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:51:28.379 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:51:28.443 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:51:28.727 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:51:30.748 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:54:49.747 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:54:49.810 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:54:50.229 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:54:52.243 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:54:58.460 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:54:58.525 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:54:58.791 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:55:04.277 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:55:04.335 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:55:04.566 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:55:06.577 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:59:17.237 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:59:17.310 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:59:17.780 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:59:19.800 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 13:59:25.695 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:59:25.781 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:59:26.059 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:59:31.494 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 13:59:31.553 [main] BaseClass - password provided
+[INFO ] 2021-09-13 13:59:31.788 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 13:59:33.795 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 14:01:26.595 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:01:26.682 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:01:27.230 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:01:29.245 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 14:01:35.081 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:01:35.144 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:01:35.382 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:01:41.082 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:01:41.142 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:01:41.400 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:01:43.412 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 14:03:15.459 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:03:15.522 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:03:16.022 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:03:18.035 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 14:03:23.696 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:03:23.752 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:03:24.014 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:03:29.761 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:03:29.817 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:03:30.068 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:03:32.087 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 14:05:42.945 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:05:43.013 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:05:43.448 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:05:45.472 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 14:05:51.560 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:05:51.618 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:05:51.871 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:05:57.397 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 14:05:57.452 [main] BaseClass - password provided
+[INFO ] 2021-09-13 14:05:57.696 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 14:05:59.709 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 19:27:06.146 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 19:27:06.214 [main] BaseClass - password provided
+[INFO ] 2021-09-13 19:27:06.731 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 19:27:08.747 [main] BaseClass - Login passed
+[INFO ] 2021-09-13 19:27:14.763 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 19:27:14.823 [main] BaseClass - password provided
+[INFO ] 2021-09-13 19:27:15.088 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 19:27:21.050 [main] BaseClass - user name provided
+[INFO ] 2021-09-13 19:27:21.108 [main] BaseClass - password provided
+[INFO ] 2021-09-13 19:27:21.446 [main] BaseClass - click on submit button
+[INFO ] 2021-09-13 19:27:23.460 [main] BaseClass - Login passed
+[INFO ] 2021-09-14 10:12:29.297 [main] BaseClass - Entered user name
+[INFO ] 2021-09-14 10:12:29.372 [main] BaseClass - Entered password
+[INFO ] 2021-09-14 10:12:38.409 [main] BaseClass - user name provided
+[INFO ] 2021-09-14 10:12:38.469 [main] BaseClass - password provided
+[INFO ] 2021-09-14 10:12:38.976 [main] BaseClass - click on submit button
+[INFO ] 2021-09-14 10:12:40.999 [main] BaseClass - Login passed
+[INFO ] 2021-09-14 10:12:46.745 [main] BaseClass - user name provided
+[INFO ] 2021-09-14 10:12:46.802 [main] BaseClass - password provided
+[INFO ] 2021-09-14 10:12:47.075 [main] BaseClass - click on submit button
+[INFO ] 2021-09-14 10:12:52.953 [main] BaseClass - user name provided
+[INFO ] 2021-09-14 10:12:53.008 [main] BaseClass - password provided
+[INFO ] 2021-09-14 10:12:53.230 [main] BaseClass - click on submit button
+[INFO ] 2021-09-14 10:12:55.247 [main] BaseClass - Login passed
+[INFO ] 2021-09-14 10:17:28.982 [main] BaseClass - user name provided
+[INFO ] 2021-09-14 10:17:29.045 [main] BaseClass - password provided
+[INFO ] 2021-09-14 10:17:29.259 [main] BaseClass - click on submit button
+[INFO ] 2021-09-14 11:06:58.061 [main] BaseClass - Entered user name
+[INFO ] 2021-09-14 11:06:58.149 [main] BaseClass - Entered password
